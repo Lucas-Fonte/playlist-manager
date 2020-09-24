@@ -1,0 +1,8 @@
+.DS_Store
+
+# client
+/client/node_modules
+
+# server
+/server/node_modules
+/server/credentials.json
