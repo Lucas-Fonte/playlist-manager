@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="./client/public/logo.svg" alt="logo">
+    <img src="./docs/logo.svg" alt="logo">
     <h1 align="center">Playlist-Manager</h1>
 </p>
 
